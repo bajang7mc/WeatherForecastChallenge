@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{36D9A467-3C57-448D-8859-59D16A6DBA0F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherForecastChallenge/NLog.config">
+    <Files>
+      <File FileName="WeatherForecastChallenge/Controllers/WeatherForecastController.cs" Line="30" Column="4" />
+      <File FileName="WeatherForecastChallenge.Shared/WeatherForeCastService.cs" />
+      <File FileName="WeatherForecastChallenge.Tests/Services/WeatherForeCastServiceTests.cs" Line="8" Column="27" />
+      <File FileName="README.md" />
+      <File FileName="WeatherForecastChallenge/Program.cs" Line="13" Column="1" />
+      <File FileName="WeatherForecastChallenge/Properties/launchSettings.json" />
+      <File FileName="WeatherForecastChallenge/WeatherForecastChallenge.csproj" Line="20" Column="72" />
+      <File FileName="WeatherForecastChallenge/NLog.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="WeatherForecastChallenge" expanded="True">
+            <Node name="WeatherForecastChallenge" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="WeatherForecastChallenge.Shared" expanded="True" />
+            <Node name="WeatherForecastChallenge.Tests" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WeatherForecastChallenge PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
