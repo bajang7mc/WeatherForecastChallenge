@@ -28,5 +28,9 @@ API to get the weather forcasts
 - Use Logger to log somethings.
 - Validate input of GetWeatherForecasts(summary) method.
 
-##Hint:
+## Hint:
+- Dependency Injection
+- Asynchronous programming
+- Interfaces
+- Unit test
 - Good luck Have fun!!
